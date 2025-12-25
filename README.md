@@ -63,7 +63,7 @@ e melhoria contínua dos processos de QA.
 ## 📊 Atividade no GitHub
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=SEU_USUARIO_AQUI&theme=dracula&hide_border=false" height="150" />
+  <img src="https://streak-stats.demolab.com?user=andersonloko08&theme=dracula&hide_border=false" height="150" />
 </div>
 
 ---
