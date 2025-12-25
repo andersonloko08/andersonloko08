@@ -1,6 +1,13 @@
-# Anderson Pereira
+<h1 align="center">Hey 👋 What's up?</h1>
 
-Analista de Automação de Testes | QA | Robot Framework | Python
+<p align="center">
+  <strong>Anderson Pereira</strong><br/>
+  Analista de Automação de Testes | QA | Robot Framework | Python
+</p>
+
+---
+
+## 👨‍💻 Sobre mim
 
 Sou Analista de Automação de Testes com mais de 7 anos de experiência em qualidade de software,
 atuando na criação, manutenção e evolução de testes automatizados para sistemas web e APIs.
@@ -12,11 +19,21 @@ e melhoria contínua dos processos de QA.
 
 ## 🛠 Tecnologias e Ferramentas
 
-- **Automação de Testes**: Robot Framework, Selenium WebDriver  
-- **Linguagens**: Python, PowerShell  
-- **APIs**: Postman, SOAPUI  
-- **Banco de Dados**: PostgreSQL, SQLite  
-- **Outros**: OCR, Git, versionamento de código, CI/CD básico  
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python" height="60" alt="python logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=selenium" height="60" alt="selenium logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=git" height="60" alt="git logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=postgres" height="60" alt="postgres logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=linux" height="60" alt="linux logo" />
+</div>
+
+<p align="center">
+  Robot Framework · Selenium WebDriver · Python · PowerShell · Postman · SOAPUI · OCR · CI/CD básico
+</p>
 
 ---
 
@@ -26,7 +43,7 @@ e melhoria contínua dos processos de QA.
 - Criação e manutenção de suítes de testes automatizados  
 - Estruturação de testes reutilizáveis e de fácil manutenção  
 - Apoio à definição de estratégias de testes e garantia da qualidade  
-- Colaboração com times de desenvolvimento e produto  
+- Colaboração direta com times de desenvolvimento e produto  
 
 ---
 
@@ -40,6 +57,23 @@ e melhoria contínua dos processos de QA.
 
 - **robot-framework-utils**  
   Utilitários e padrões para facilitar a criação de testes automatizados com Robot Framework.
+
+---
+
+## 📊 Atividade no GitHub
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=SEU_USUARIO_AQUI&theme=dracula&hide_border=false" height="150" />
+  <img src="https://github-profile-trophy.vercel.app?username=SEU_USUARIO_AQUI&theme=dracula&row=1&column=6" height="150" />
+</div>
+
+---
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SEU_USUARIO_AQUI/SEU_USUARIO_AQUI/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SEU_USUARIO_AQUI/SEU_USUARIO_AQUI/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/SEU_USUARIO_AQUI/SEU_USUARIO_AQUI/output/pacman-contribution-graph.svg">
+</picture>
 
 ---
 
