@@ -70,11 +70,11 @@ e melhoria contínua dos processos de QA.
 
 <picture>
   <source media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/SEU_USUARIO_AQUI/SEU_USUARIO_AQUI/output/pacman-contribution-graph-dark.svg">
+    srcset="https://raw.githubusercontent.com/andersonloko08/andersonloko08/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/SEU_USUARIO_AQUI/SEU_USUARIO_AQUI/output/pacman-contribution-graph.svg">
+    srcset="https://raw.githubusercontent.com/andersonloko08/andersonloko08/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph"
-    src="https://raw.githubusercontent.com/SEU_USUARIO_AQUI/SEU_USUARIO_AQUI/output/pacman-contribution-graph.svg">
+    src="https://raw.githubusercontent.com/andersonloko08/andersonloko08/output/pacman-contribution-graph.svg">
 </picture>
 
 ---
