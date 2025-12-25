@@ -1,4 +1,4 @@
-<h1 align="center">Hey 👋 What's up?</h1>
+<h1 align="center">Hey 👋 What's Up?</h1>
 
 <p align="center">
   <strong>Anderson Pereira</strong><br/>
@@ -20,15 +20,15 @@ e melhoria contínua dos processos de QA.
 ## 🛠 Tecnologias e Ferramentas
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python" height="60" alt="python logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=selenium" height="60" alt="selenium logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=git" height="60" alt="git logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=postgres" height="60" alt="postgres logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=linux" height="60" alt="linux logo" />
+  <img src="https://skillicons.dev/icons?i=python" height="55" />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=selenium" height="55" />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=git" height="55" />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=postgres" height="55" />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=linux" height="55" />
 </div>
 
 <p align="center">
@@ -50,13 +50,13 @@ e melhoria contínua dos processos de QA.
 ## 📌 Projetos em Destaque
 
 - **webCrawler**  
-  Automação para coleta e processamento de dados, com foco em organização e reutilização de código.
+  Automação para coleta e processamento de dados com foco em organização e reutilização.
 
 - **qa-automation-labs**  
-  Repositório de estudos, experimentos e boas práticas em automação de testes.
+  Estudos, experimentos e boas práticas em automação de testes.
 
 - **robot-framework-utils**  
-  Utilitários e padrões para facilitar a criação de testes automatizados com Robot Framework.
+  Utilitários e padrões para acelerar automação com Robot Framework.
 
 ---
 
@@ -64,15 +64,17 @@ e melhoria contínua dos processos de QA.
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=SEU_USUARIO_AQUI&theme=dracula&hide_border=false" height="150" />
-  <img src="https://github-profile-trophy.vercel.app?username=SEU_USUARIO_AQUI&theme=dracula&row=1&column=6" height="150" />
 </div>
 
 ---
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SEU_USUARIO_AQUI/SEU_USUARIO_AQUI/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SEU_USUARIO_AQUI/SEU_USUARIO_AQUI/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/SEU_USUARIO_AQUI/SEU_USUARIO_AQUI/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/SEU_USUARIO_AQUI/SEU_USUARIO_AQUI/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/SEU_USUARIO_AQUI/SEU_USUARIO_AQUI/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph"
+    src="https://raw.githubusercontent.com/SEU_USUARIO_AQUI/SEU_USUARIO_AQUI/output/pacman-contribution-graph.svg">
 </picture>
 
 ---
